@@ -3,7 +3,7 @@ package com.seenu.SpringProject;
 import java.util.Arrays;
 
 /**
- * SumOfArray string to char and char to string
+ * SumOfArray string to char and char to string.
  * @author seenu
  *
  */
