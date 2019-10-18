@@ -19,6 +19,5 @@ public static void main(String[] args) {
 	String enter2 = sc.next();
 	String enter3 = enter1 + enter2;
 	System.out.println(enter3);
-	//check odd or even nummbers
 }
 }
