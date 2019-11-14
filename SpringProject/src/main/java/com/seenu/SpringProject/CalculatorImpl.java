@@ -7,7 +7,6 @@ import java.io.InputStreamReader;
 import org.springframework.util.StringUtils;
 /**
  * CalculatorImpl simple calculation
- * @author seenu
  *
  */
 
